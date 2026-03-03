@@ -112,6 +112,25 @@ The project is pre-configured with a `.gitignore` that prevents your `.env` file
 Distributed under the Apache-2.0 License. See `LICENSE` for more information.
 
 ---
+<h2><a class="anchor" id="author--contact"></a>Contact</h2>
 
-## 👨‍💻 Built by SBD
+**Sushree Bandita Das**  
+ 
+<h3 align="left"></h3> 
+<p align="left">
+  <a href="https://twitter.com/S_Bandita_Das" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="S_Bandita_Das" height="30" width="40" />
+  </a>
+  <a href="http://www.linkedin.com/in/sushree-bandita-das-160651309" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushree-bandita-das-160651309" height="30" width="40" />
+  </a>
+  <a href="https://github.com/SBanditaDas" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SBanditaDas" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/dasbanditasushree" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dasbanditasushree" height="30" width="40" />
+  </a>
 
+</p>
+
+---
